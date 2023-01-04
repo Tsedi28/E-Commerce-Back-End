@@ -13,7 +13,6 @@ This application was made to provide companies with the best back-end code to he
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Questions](#questions)
 
 ## Installation
 
@@ -21,7 +20,9 @@ To install, the user needs to clone the repo and have Node installed. Once that 
 
 ## Usage
 
-![ScreenShot from application](./assets/Capture.PNG)
+![ScreenShot from application](./Assets/Categiries.png)
+![ScreenShot from application](./Assets/Products.png)
+![ScreenShot from application](./Assets/Tags.png)
 
 Video Walkthrough:
 
@@ -31,12 +32,11 @@ You use the command line to start the server and then use insomnia to view data
 
 This project is license under MIT
 
-## Contributing
-
-At this time there is no need to contribute.
 
 ## Tests
 
 npm run seed, npm start
 
-## Questions
+## Contributor:
+Tsedenia Bogale ©2022 All Rights Reserved.
+- - -
