@@ -15,7 +15,7 @@ This application was made to provide companies with the best back-end code to he
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
+- [Contributor](#contributor)
 - [Tests](#tests)
 
 ## Installation
@@ -29,12 +29,12 @@ To install, the user needs to clone the repo and have Node installed. Once that 
 ![ScreenShot from application](./Assets/Tags.png)
 
 
-## License
+## License:
 
 This project is license under Apache
 
 
-## Tests
+## Tests:
 
 npm run seed, npm start
 
