@@ -28,9 +28,6 @@ To install, the user needs to clone the repo and have Node installed. Once that 
 ![ScreenShot from application](./Assets/Products.png)
 ![ScreenShot from application](./Assets/Tags.png)
 
-Video Walkthrough:
-
-You use the command line to start the server and then use insomnia to view data
 
 ## License
 
