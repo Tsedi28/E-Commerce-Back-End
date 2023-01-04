@@ -1,6 +1,6 @@
 # E-Commerce-Back-End
 
-![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+![Github licence](http://img.shields.io/badge/license-Appache-blue.svg)
 
 ## Description
 
@@ -30,7 +30,7 @@ You use the command line to start the server and then use insomnia to view data
 
 ## License
 
-This project is license under MIT
+This project is license under Apache
 
 
 ## Tests
