@@ -24,8 +24,10 @@ To install, the user needs to clone the repo and have Node installed. Once that 
 
 ## Usage:
 
-![ScreenShot from application](./Assets/Categiries.png)
+![ScreenShot from application](./Assets/Categories.png)
+
 ![ScreenShot from application](./Assets/Products.png)
+
 ![ScreenShot from application](./Assets/Tags.png)
 
 
