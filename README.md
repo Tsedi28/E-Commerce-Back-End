@@ -13,7 +13,7 @@ This application was made to provide companies with the best back-end code to he
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
+- [Screenshots](#screenshots)
 - [License](#license)
 - [Contributor](#contributor)
 - [Tests](#tests)
@@ -22,7 +22,7 @@ This application was made to provide companies with the best back-end code to he
 
 To install, the user needs to clone the repo and have Node installed. Once that is done the user can run the command to start the server and view the data on insomnia.
 
-## Usage:
+## Screenshots:
 
 ![ScreenShot from application](./Assets/Categories.png)
 
