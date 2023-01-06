@@ -4,7 +4,7 @@
 
 ### Github : https://github.com/Tsedi28/E-Commerce-Back-End
 
-### Walkthrough video : https://drive.google.com/file/d/1YgonSHqScTOy4j7jUBazvxuzsAm08Cm8/view
+### Walkthrough video : https://drive.google.com/file/d/1c_o0Q_JhBfK7A-y5ZYPZxc3XGm8eipNB/view
 
 ## Description:
 
