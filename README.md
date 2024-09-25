@@ -41,5 +41,5 @@ This project is license under Apache
 npm run seed, npm start
 
 ## Contributor:
-Tsedenia Bogale ©2022 All Rights Reserved.
+Tsedi ©2022 All Rights Reserved.
 - - -
